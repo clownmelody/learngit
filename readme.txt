@@ -3,3 +3,9 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 git has a change then.
 this is for the dev.
+
+
+
+
+
+this is & simple.
